@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-* Overview
-* Dependancies 
-* Setup
+* [Overview](#Overview)
+* [Dependancies](#Dependancies) 
+* [Setup](#Setup)
 
 
 ## Overview
