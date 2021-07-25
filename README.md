@@ -29,6 +29,6 @@ writing code snippets and intepreting the results. The goal of the project was t
 
 ## Setup
 
-* clone the github repository in the desrired directory.
+* Clone the github repository in the desrired directory.
 * Create a conda environment and install all the dependencies using conda or pip.
 * Activate the environment; navigate to the repo, and type jupyter notebook to open up the repo files in a jupyter server.  
