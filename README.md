@@ -11,8 +11,8 @@
 
 Analysis of the results of an AB Test conducted by a fictitious ed-tech company to decide on changing the landing page of the company's website to increase the proportion of users enrolling for a course. The project was done to demonstrate the use of hypothesis testing and correctly intepreting the results of an experiment by checking for statistical significance of the results and undertanding their practical significance. 
 
-Done as a course requirement of Udacity's Data Analyst Nanodegree. A structured notebook wih prompts was provided and the goal was to work through the notebook by 
-writing code snippets and intepreting the results. The goal of the project was to correctly intepret and explain the results and use them to arrive at a decision thereby simulating conducting A/B tests.
+Done as a course requirement of Udacity's Data Analyst Nanodegree. A structured notebook wih prompts was provided and the task was to work through the notebook by 
+writing code snippets and intepreting the results. The aim of the project was to correctly intepret and explain the results and use them to arrive at a decision thereby simulating conducting A/B tests.
 
 ## Dependancies
 
